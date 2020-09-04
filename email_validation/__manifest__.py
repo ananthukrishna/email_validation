@@ -26,7 +26,7 @@
     'summary': 'Email Validation',
     'version': '1.0',
     'description': """Email Validation""",
-    'author': 'Ananthu Krishna',
+    'author': 'CodersFort',
     'maintainer': 'Ananthu Krishna',
     'website': 'http://www.codersfort.com',
     "images": ["images/Banner.png"],

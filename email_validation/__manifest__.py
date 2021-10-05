@@ -27,7 +27,7 @@
     'version': '1.0',
     'description': """Email Validation""",
     'author': 'CodersFort',
-    'maintainer': 'Ananthu Krishna',
+    'maintainer': 'CodersFort',
     'website': 'http://www.codersfort.com',
     "images": ["images/Banner.png"],
     'license': 'AGPL-3',
